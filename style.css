@@ -1,0 +1,24 @@
+body {
+    font-size: 14px;
+    font-family: 'Poppins';
+    color: #000000;
+
+
+}
+
+#nav-color {
+    color: #ffffff;
+}
+
+#nav-color:hover {
+    color: #747d8c;
+}
+
+.jumbotron {
+    background-color: #f1f2f6;
+}
+
+#tentang-kami {
+    background-color: #f1f2f6;
+}
+
